@@ -2,5 +2,10 @@
 
 A Simple calculator app with basic calculation features such as Addition, Multiplication, Division, Subtraction, Percentage
 
-![](images/light.jpeg)
-![](images/dark.jpeg)
+<p align="center">
+  <img width="400" height="600" src="images/light.jpeg">
+</p>
+
+<p align="center">
+  <img width="400" height="600" src="images/dark.jpeg">
+</p>
